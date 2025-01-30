@@ -1,0 +1,41 @@
+
+file.lock=                              The file has been locked, please try again later
+file.not=                               File '%s' does not exist
+file.merge.process=                     %d % in file merge from %s
+
+
+
+connection.timeout=                     Connection timed out
+connection.interruption=                Connection interruption
+
+
+
+path.too.long=                          Path too long '%s'
+
+
+
+process.commit=                         Submit processing 	%s
+upload.preparation=                     Preparing to upload  %s
+upload.skip=                            Upload skip   %s
+upload.ing=                             [%lld][%s] uploading %d %%
+upload.success=                         Upload successful  %s  took  %lld  milliseconds
+
+
+
+console.help=                       Enter 'help' for more assistance
+
+console.help.fts.start=             Enter 'fts start' to start the file transfer server
+console.help.fts.start.bind=        Enter 'fts start addr:port' to start the file transfer server and specify the binding address and port
+console.help.fts.stop=              Enter 'fts stop' to turn off the file transfer server
+console.help.fts.sd=                Enter 'fts sd path' to set the file transfer server save directory
+
+console.help.ftc.start=             Enter 'ftc start addr:port' to start the file transfer client and specify the binding address and port
+console.help.ftc.stop=              Enter 'ftc stop' to turn off the file transfer client
+console.help.ftc.upload=            Enter 'ftc upload path' to upload a file
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+file.lock=                              文件已被锁定,请您稍后重试
+file.not=                               不存在文件  '%s'
+file.merge.process=                     合并文件 %d %%  %s
+
+
+
+connection.timeout=                     连接超时
+connection.interruption=                连接中断
+
+
+
+path.too.long=                          路径太长  '%s'
+
+
+
+process.commit=                         提交处理  %s
+upload.preparation=                     准备上传  %s
+upload.skip=                            上传跳过  %s
+upload.ing=                             [%lld][%s] 正在上传 %d %%
+upload.success=                         上传成功  %s  耗时 %lld 毫秒
+
+
+
+console.help=                       输入 'help' 获得更多帮助
+
+console.help.fts.start=             输入 'fts start'           启动文件传输服务端
+console.help.fts.start.bind=        输入 'fts start addr:port' 启动文件传输服务端 指定绑定地址和端口
+console.help.fts.stop=              输入 'fts stop'            关闭文件传输服务端
+console.help.fts.sd=                输入 'fts sd path'         设置文件传输服务端 保存目录
+
+
+
+console.help.ftc.start=             输入 'ftc start addr:port' 启动文件传输客户端 指定绑定地址和端口
+console.help.ftc.stop=              输入 'ftc stop'            关闭文件传输客户端
+console.help.ftc.upload=            输入 'ftc upload path'     上传一个文件
+
+
